@@ -1,0 +1,6 @@
+name: SkyWars Hypixel MC
+author: Master Craft145
+main: SkyWars\Main
+version: 3.0
+api: 3.0.0
+depend: ["FormAPI", "Scoreboards"]
